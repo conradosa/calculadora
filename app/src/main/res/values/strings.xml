@@ -3,7 +3,11 @@
     <string name="n1">Número 1</string>
     <string name="n2">Número 2</string>
     <string name="title">Calculadora</string>
-    <string name="resultado_string">Resultado</string>
+    <string name="resultado_string">0</string>
     <string name="op">Operação</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
 
 </resources>
